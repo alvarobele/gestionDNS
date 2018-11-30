@@ -12,7 +12,7 @@ lineas = f.readlines()
 f.close()
 
 # Abrimos el fichero con el modo a+ para que no nos borre todo el contenido que teníamos previamente
-f = open(path, 'a+')
+f = open(path, 'w')
 
 # Comprobamos los argumentos que le estamos pasando al programa
 if sys.argv[1] == '-a':
