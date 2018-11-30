@@ -1,2 +1,2 @@
-Dominio,Fichero de configuración,Fichero de configuración inversa
-alvaro.gonzalonazareno.org.,/var/cache/bind/db.externa.alvaro,/var/cache/bind/db.10.0
+Dominio,Fichero configuración externa,Fichero inversa externa,Fichero configuración interna,Fichero inversa interna
+alvaro.gonzalonazareno.org.,/var/cache/bind/db.externa.alvaro,/var/cache/bind/db.172.22,/var/cache/bind/db.interna.alvaro,/var/cache/bind/db.172.22
